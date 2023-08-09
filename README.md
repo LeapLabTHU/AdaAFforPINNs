@@ -2,7 +2,7 @@
 
 This repository contains the PyTorch source code for the experiments in the manuscript:
 
-Learning Specialized Activation Functions for Physics-informed Neural Networks.
+[Learning Specialized Activation Functions for Physics-informed Neural Networks](https://arxiv.org/abs/2308.04073).
 
 ## Introduction
 
